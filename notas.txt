@@ -1,0 +1,5 @@
+tailwind:
+npm i -D tailwindcss postcss autoprefixer
+npx tailwind init -p
+
+configurar el archivo: tailwind.config.cjs
